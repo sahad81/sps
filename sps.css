@@ -1,0 +1,350 @@
+
+h1{
+    font-size: 2.5em;
+    font-weight: 700;
+    color: #000;
+    font-family: inherit;
+}.helo{
+    float:left ;
+}.by{
+    color: #000;
+    height: 10px;
+}.wi{
+    width: 100%;
+    height: 100%;
+}.vi{
+    width: 100%;
+    height: 100%;
+}.add{
+font-size: 48px;
+font-weight: 700;
+margin-bottom: 30px;
+}.cal-p{
+    font-size: 1rem;
+    font-weight: 300;
+}body{
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}.btn1{
+    background: #00d2b5;
+    border-color: #00d2b5;
+    border-radius: 30px;
+    font-size: 16px;
+    padding: 10px 30px;
+    box-shadow: 0 4px 20px -5px rgb(0 210 181 / 40%);
+    position: relative;
+    color: #fff;
+}.btn1:hover{
+    background: #fff;
+    color: black;
+    border-color: #00d2b5;
+
+}.feachers{
+    background: #f8f9fa; 
+} 
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+.rr{
+    background:#00d2b5 ;
+    color: #fff;
+    font-size: px;
+
+}.btn2{
+    background:#00d2b5;
+     border-radius: 60%;
+      width:40px;
+       border:none;
+       height:40px;
+       margin:15px;
+}.card1{
+    
+    height: 250px;
+    color: gray;
+    background-color: #fff;
+}
+.tx{
+   
+    
+}
+.card1:hover{
+    color: #fff;
+    background:#00d2b5;
+    h6 color: #fff;
+
+}.tx:hover{
+    color: #fff;
+}h6{
+    color: #000;
+}.qw{
+    float: left;
+}.c{
+    color: gray;
+    font-weight: 300;
+    line-height: 1.7;
+    font-size: 1rem;
+
+}.cir{
+    background-color: #00d2b5;
+    border-radius:50% ;
+    width: 40px;
+    height: 40px;
+    padding-top: 7px;
+
+
+}.cir2{
+    background-color: #00d2b5;
+    border-radius:50% ;
+    width: 40px;
+    height: 40px;
+    padding-top: 7px;
+    margin-left:
+}.box {
+    width: 30px; 
+    height: 50px;  
+    border: solid 5px #000;
+    border-color: #000 transparent transparent transparent;
+    border-radius: 30%/40px 50px 0 0;
+  }.how-it-works.row {
+    display: flex;
+  }
+  .how-it-works.row .col-2 {
+    display: inline-flex;
+    align-self: stretch;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  
+  .how-it-works.row .col-2.bottom::after {
+    height: 50%;
+    left: 50%;
+    top: 50%;
+  }
+  
+  .timeline div {
+    padding: 0;
+    height: 40px;
+  }
+  .timeline hr {
+    border-top: 3px solid #00d2b5;
+    margin: 0;
+    top: 17px;
+    position: relative;
+  }.domains{
+    background-color: #f8f9fa;
+  }.cardp{
+    height: 30px;
+;
+  }.card{
+    
+    height: 130px;
+    color: rgb(8, 2, 2);
+    background-color: #fff;
+
+;
+   
+    
+}
+.card:hover{
+    color: #fff;
+    background:#00d2b5;
+
+    font-family: Verdana;
+}.card2{
+    height: 110px;
+    color: rgb(8, 2, 2);
+    background-color: #fff;
+}.card2:hover{
+    color: #fff;
+    background:#00d2b5;
+    h6 color: #fff;
+    font-family: Verdana;
+
+}.cir-last{
+ background-color: #00d2b5;
+    border-radius:50% ;
+    width: 40px;
+    height: 40px;
+    padding-top: 7px;
+}.hr-last{
+    color: #00d2b5;
+}.line2{
+    width: 26%;
+}
+
+
+
+
+
+
+
+.from-them {
+    align-items: flex-start;
+    background-color: #e5e5ea;
+    color: #000;
+  }
+  
+  p.from-them:before {
+    border-bottom-right-radius: 0.8rem 0.7rem;
+    border-left: 1rem solid #e5e5ea;
+    left: -0.35rem;
+    transform: translate(0, -0.1rem);
+  }
+  
+  p.from-them::after {
+    background-color: #fff;
+    border-bottom-right-radius: 0.5rem;
+    left: 20px;
+    transform: translate(-30px, -2px);
+    width: 10px;
+  }
+  .gf{
+      position: relative;
+      top:-30px;
+      transition: .7s all ease;
+  }
+  .gf:hover{
+     
+      top: 0;
+  
+  }
+  .user{
+      display: flex;
+      justify-content: end;
+      align-items: flex-end;
+      border-radius: 20%;
+  }message p {
+    border-radius: 1.15rem;
+    line-height: 1.25;
+    max-width: 95%;
+    padding: 0.5rem .875rem;
+    position: relative;
+    word-wrap: break-word;
+  }
+  small{
+     align-items: flex-end;
+  }
+  
+  .imessage p::before,
+  .imessage p::after {
+    bottom: -0.1rem;
+    content: "";
+    height: 1rem;
+    position: absolute;
+  }
+  
+  p.from-me {
+    align-self: flex-end;
+    background-color: #00d2b5;
+    color: #fff; 
+    
+  }
+  
+  p.from-me::before {
+    border-bottom-left-radius:20%;
+    border-right: 1rem solid #00d2b5;
+    right: -0.35rem;
+    transform: translate(0, -0.1rem);
+  }
+  
+  p.from-me::after {
+    background-color: #fff;
+    border-bottom-left-radius: 0.5rem;
+    right: -40px;
+    transform:translate(-30px, -2px);
+    width: 10px;
+  
+}
+
+.A{
+display: flex;
+flex-direction:column;
+justify-content: flex-end;
+}
+.address1{
+display: flex;
+}
+.links{
+justify-content: center;
+}
+.imessage {
+background-color: #fff;
+/* border: 1px solid #e5e5ea; */
+border-radius: 0.25rem;
+display: flex;
+flex-direction: column;
+font-family: "SanFrancisco";
+font-size: 1.25rem;
+overflow: scroll;
+/* margin: 0 auto 1rem; */
+/* max-width: 100%; */
+/* padding: 0.5rem 1.5rem; */
+
+
+
+
+}
+    .clearfix::after {
+        content: "";
+        clear: both;
+        display: table;
+}
+
+.l1o{
+   
+    color: #000
+    ;background-color: #e5e5ea;
+}.dec{
+    text-decoration: none;
+}.dec:hover{
+    color: #000;
+}.icon1{
+    color: #00d2b5;
+    margin-left: 20px;
+    margin-top: 30px;
+}.social{
+    text-decoration: none;
+}
+.social:hover{
+    color: black;
+    transform: translateY(20px)
+}.icon1:hover{
+    color:#000
+}.text3{
+    text-decoration: none;
+}.main1{
+    background-color: #fff;
+    border-radius: 20px;
+}.full{
+    background-color:#f8f9fa;
+    margin: 
+}.reg{
+    color: #00d2b5;
+    padding-top: 50pX;
+}.now{
+    margin-top: 30px;
+}.name-st{
+    border: none;
+    margin-top: 40px;
+    outline: none;
+    width: 100%;
+}.but-ren{
+    height: 52px;
+    color: #fff;
+    background-color: #00d2b5;
+    border: none;
+    outline: none;
+    
+}.input-learn{
+    width: 100%;
+}.but-ren:hover{
+    
+}form :invalid {
+    color: red;
+}.error{
+    color: red;
+}
